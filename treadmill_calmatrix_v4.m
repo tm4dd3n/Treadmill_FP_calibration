@@ -4,8 +4,7 @@
 %Maintains original order of analog data
 
 %%
-clear
-clc
+clear; clc; close all;
 
 data_folder = '/Users/meganpeach/Documents/MATLAB/Processed4';
 num_trials = 12;
